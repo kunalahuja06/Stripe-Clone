@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Stripe-Clone/static/css/main.3ae4daef.chunk.css",
+    "main.js": "/Stripe-Clone/static/js/main.f7508cbb.chunk.js",
+    "main.js.map": "/Stripe-Clone/static/js/main.f7508cbb.chunk.js.map",
+    "runtime-main.js": "/Stripe-Clone/static/js/runtime-main.a4da6767.js",
+    "runtime-main.js.map": "/Stripe-Clone/static/js/runtime-main.a4da6767.js.map",
+    "static/js/2.e1e77988.chunk.js": "/Stripe-Clone/static/js/2.e1e77988.chunk.js",
+    "static/js/2.e1e77988.chunk.js.map": "/Stripe-Clone/static/js/2.e1e77988.chunk.js.map",
+    "index.html": "/Stripe-Clone/index.html",
+    "precache-manifest.37eb3f8e0111f5b320b3686c1fca5a3e.js": "/Stripe-Clone/precache-manifest.37eb3f8e0111f5b320b3686c1fca5a3e.js",
+    "service-worker.js": "/Stripe-Clone/service-worker.js",
+    "static/css/main.3ae4daef.chunk.css.map": "/Stripe-Clone/static/css/main.3ae4daef.chunk.css.map",
+    "static/js/2.e1e77988.chunk.js.LICENSE.txt": "/Stripe-Clone/static/js/2.e1e77988.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Stripe-Clone/static/media/hero.882a211a.svg",
+    "static/media/logo.svg": "/Stripe-Clone/static/media/logo.86d618b5.svg",
+    "static/media/phone.svg": "/Stripe-Clone/static/media/phone.e908706c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4da6767.js",
+    "static/js/2.e1e77988.chunk.js",
+    "static/css/main.3ae4daef.chunk.css",
+    "static/js/main.f7508cbb.chunk.js"
+  ]
+}
