@@ -1,4 +1,5 @@
 {
+  "homepage": "https://kunalahuja06.github.io/Stripe-Clone/",
   "name": "reminder",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,8 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
+    "predepoly": "npm run build",
+    "deploy": "deploy gh-pages build",
     "start": "react-scripts start",
     "build": "CI= react-scripts build",
     "test": "react-scripts test",
